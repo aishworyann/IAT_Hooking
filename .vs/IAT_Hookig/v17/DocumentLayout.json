@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aishworyann\\source\\repos\\IAT_Hookig\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE07823D-75DC-421F-B393-3E3CC8E2BA63}|IAT_Hookig.vcxproj|C:\\Users\\Aishworyann\\source\\repos\\IAT_Hookig\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE07823D-75DC-421F-B393-3E3CC8E2BA63}|IAT_Hookig.vcxproj|solutionrelative:source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\Aishworyann\\source\\repos\\IAT_Hookig\\source.cpp",
+              "RelativeDocumentMoniker": "source.cpp",
+              "ToolTip": "C:\\Users\\Aishworyann\\source\\repos\\IAT_Hookig\\source.cpp",
+              "RelativeToolTip": "source.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-16T06:36:54.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
